@@ -14,5 +14,8 @@ print(book)
 data_type_of_book = type(book)
 print(data_type_of_book)
 
+
+# input() - prompt for user input
+# and you can add string to the argument
 # conventions
 #lower case for variable nameing with underscore
